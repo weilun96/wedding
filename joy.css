@@ -1,7 +1,7 @@
 .fhwbmK::before {
     content: '';
     display: block;
-    background-image: url(https://weilun96.github.io/wedding/assets/redxi.JPG);
+    background-image: url(https://weilun96.github.io/wedding/assets/IMG_1893.PNG);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -12,7 +12,7 @@
 .ipENrZ::after {
     content: '';
     display: block;
-    background-image: url(https://weilun96.github.io/wedding/assets/red.JPG);
+    background-image: url(https://weilun96.github.io/wedding/assets/IMG_1892.PNG);
     background-size: 200px 200px;
     background-repeat: no-repeat;
     background-position: bottom right;
@@ -37,13 +37,13 @@
 
 .xHQsE::after {
     content: '';
-    background-image: url(https://weilun96.github.io/wedding/assets/1891.PNG);
-    background-size: 50px 50px;
+    background-image: url(https://weilun96.github.io/wedding/assets/IMG_1891.PNG);
+    background-size: 65px 65px;
     background-repeat: no-repeat;
     background-position: center;
-    width: 50px;
-    height: 50px;
+    width: 65px;
+    height: 65px;
     display: inline-block;
-    margin-left: 5px;
+    margin-top: -10px;
     vertical-align: middle;
 }
